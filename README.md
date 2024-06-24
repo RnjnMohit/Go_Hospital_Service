@@ -9,7 +9,7 @@ Golang (>= 1.16)
 MongoDB (or any other preferred database)
 
 Clone the repository:
-git clone https://github.com/yourusername/hospital-service-api.git
+git clone https://github.com/RnjnMohit/Go_Hospital_Service.git
 
 Configuration
 Create a .env file in the root directory of the project.
